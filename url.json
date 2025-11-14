@@ -1,0 +1,12 @@
+{
+    "domain-a": [
+            {"openstack_url1" : "1.1.1.1"}
+        ],
+    "domain-b": [
+            {"openstack_url2" : "1.1.2.2"}
+        ],
+    "credentials": {
+        "domain-a": { "user": "user-a", "password": "*******"},
+        "domain-a": { "user": "user-b", "password": "*******"}
+    }
+}
